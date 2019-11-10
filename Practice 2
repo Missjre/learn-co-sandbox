@@ -1,0 +1,9 @@
+<h1>Profile</h>
+
+<p class= "label"> Name</P>
+
+<p id="name">Joe Burgess</P>
+
+<p class = "label">Height</p>
+
+<p id="height">74
